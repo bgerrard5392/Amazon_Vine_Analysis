@@ -10,11 +10,10 @@ I've chosen a dataset from Amazon reviews on video games sold on Amazon. From th
 
 ### How many Vine reviews and non-Vine reviews were there?
 
-Vine reviews <p align="center">
-    <img src=""> 
-</p>
+**Total Reviews** = 40,565
 
-<br>
+
+Vine reviews:
 
 
 Non-Vine Reviews:
@@ -22,6 +21,14 @@ Non-Vine Reviews:
 
 
 ### How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
+
+**Total 5-Star Reviews** = 15,711
+
+<p align="center">
+    <img src="https://user-images.githubusercontent.com/75700317/125225637-9e639000-e29d-11eb-8213-801e641c35a5.png"> 
+</p>
+
+<br>
 
 Vine Reviews:
 
