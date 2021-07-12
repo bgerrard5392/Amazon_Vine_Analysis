@@ -12,14 +12,14 @@ I've chosen a dataset from Amazon reviews on video games sold on Amazon. From th
 
 There is a total of 40,565 reviews within this dataset. Below are the amount of Vine Reviews and Non-Vine reviews.
 
-Vine reviews:
+<u>Vine reviews:</u>
 <p align="center">
     <img width="858" alt="total_paid_reviews" src="https://user-images.githubusercontent.com/75700317/125226322-dfa86f80-e29e-11eb-9dcf-c09077ed6cab.png">
 </p>
 
 <br>
 
-Non-Vine Reviews:
+<u>Non-Vine Reviews:</u>
 <p align="center">
     <img width="858" alt="total_unpaid_reviews" src="https://user-images.githubusercontent.com/75700317/125226745-9f95bc80-e29f-11eb-8e63-3803b2167cee.png">
 </p>
