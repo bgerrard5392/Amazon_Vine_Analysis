@@ -10,8 +10,7 @@ I've chosen a dataset from Amazon reviews on video games sold on Amazon. From th
 
 ### How many Vine reviews and non-Vine reviews were there?
 
-**Total Reviews** = 40,565
-
+There is a total of 40,565 reviews within this dataset. Below are the amount of Vine Reviews and Non-Vine reviews.
 
 Vine reviews:
 <p align="center">
@@ -73,7 +72,11 @@ Vine Reviews:
 <br>
 
 Non-Vine Reviews:
+<p align="center">
+    <img width="858" alt="unpaid_5star_review_percentage" src="https://user-images.githubusercontent.com/75700317/125227362-c6a0be00-e2a0-11eb-9524-c6cdf82c70ce.png">
+</p>
 
+<br>
 
 
 
