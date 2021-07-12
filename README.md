@@ -81,16 +81,11 @@ There is a total of **15,711, 5-star reviews**. Below are the amount of 5-star V
 <br>
 
 
-
 ## Summary:
 
+Coming out of my analysis I found that 5-Star Vine reviews accounted for 51% of reviews Non-Vine reviews only made up 39%. This difference of only 12% makes it too hard to tell whether or not there is bias between Amazon Vine members and non-vine members. What I believe would make this analysis more interesting is - I would like to see a a Vine vs Non-Vine review for each star rating, maybe there is more bias in lower star values than higher... who knows. Also, it'd be interesting to see a statistical breakdown - mean, median and mode of both Vine and Non-Vine.
 
-
-
-
-
-
-
+In conclusion, the Vine program does not show any bias.
 
 
 
