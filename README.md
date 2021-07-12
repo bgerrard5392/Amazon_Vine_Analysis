@@ -18,8 +18,14 @@ Vine reviews:
     <img width="858" alt="total_paid_reviews" src="https://user-images.githubusercontent.com/75700317/125226322-dfa86f80-e29e-11eb-9dcf-c09077ed6cab.png">
 </p>
 
-Non-Vine Reviews:
+<br>
 
+Non-Vine Reviews:
+<p align="center">
+    <img width="858" alt="total_unpaid_reviews" src="https://user-images.githubusercontent.com/75700317/125226745-9f95bc80-e29f-11eb-8e63-3803b2167cee.png">
+</p>
+
+<br>
 
 
 ### How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
@@ -33,15 +39,38 @@ Non-Vine Reviews:
 <br>
 
 Vine Reviews:
+<p align="center">
+    <img width="858" alt="paid_5star_reviews" src="https://user-images.githubusercontent.com/75700317/125226712-94429100-e29f-11eb-9e2b-58db06ca4976.png">
+</p>
+
+<br>
+
 
 Non-Vine Reviews:
- 
+<p align="center">
+    <img width="858" alt="total_unpaid_5star_reviews" src="https://user-images.githubusercontent.com/75700317/125226744-9f95bc80-e29f-11eb-81cf-9f3e4e54aff3.png">
+</p>
+
+<br>
+
 
 
 ### What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
+**total 5-star review percentage**
+<p align="center">
+    <img width="858" alt="total_5star_reviews_percentage" src="https://user-images.githubusercontent.com/75700317/125226742-9efd2600-e29f-11eb-80aa-e9803769b16d.png">
+</p>
+
+<br>
 
 
 Vine Reviews:
+**paid 5-star review percentage**
+<p align="center">
+    <img width="858" alt="paid_5star_reviews_percentage" src="https://user-images.githubusercontent.com/75700317/125226723-999fdb80-e29f-11eb-9651-7f8aa2d2c389.png">
+</p>
+
+<br>
 
 Non-Vine Reviews:
 
@@ -49,3 +78,15 @@ Non-Vine Reviews:
 
 
 ## Summary:
+
+
+
+
+
+
+
+
+
+
+
+
