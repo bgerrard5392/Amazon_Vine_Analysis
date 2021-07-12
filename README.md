@@ -8,6 +8,34 @@ I've chosen a dataset from Amazon reviews on video games sold on Amazon. From th
 
 ## Results:
 
+### How many Vine reviews and non-Vine reviews were there?
+
+Vine reviews <p align="center">
+    <img src=""> 
+</p>
+
+<br>
+
+
+Non-Vine Reviews:
+
+
+
+### How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
+
+Vine Reviews:
+
+Non-Vine Reviews:
+ 
+
+
+### What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
+
+
+Vine Reviews:
+
+Non-Vine Reviews:
+
 
 
 
