@@ -56,7 +56,7 @@ There is a total of **15,711, 5-star reviews**. Below are the amount of 5-star V
 
 ### What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
 
-percentage of reviews that are 5-star
+38.73% of all the reviews within this dataset are 5-star reviews
 <p align="center">
     <img width="858" alt="percentage of 5 star reviews " src="https://user-images.githubusercontent.com/75700317/125228203-690d7100-e2a2-11eb-936a-8b4888874df8.png">
 </p>
@@ -64,16 +64,8 @@ percentage of reviews that are 5-star
 <br>
 
 
-
-<p align="center">
-    <img width="858" alt="total_5star_reviews_percentage" src="https://user-images.githubusercontent.com/75700317/125226742-9efd2600-e29f-11eb-80aa-e9803769b16d.png">
-</p>
-
-<br>
-
-
 <ins>Vine Reviews:</ins>
-
+38.2% of the five_star reviews were vine
 <p align="center">
     <img width="858" alt="percentage of paid" src="https://user-images.githubusercontent.com/75700317/125228204-690d7100-e2a2-11eb-897b-76d161ee2c47.png">
 </p>
@@ -81,6 +73,7 @@ percentage of reviews that are 5-star
 <br>
 
 <ins>Non-Vine Reviews:</ins>
+38.9% of the five_star reviews were non-vine
 <p align="center">
     <img width="858" alt="percentage of unpaid" src="https://user-images.githubusercontent.com/75700317/125228205-690d7100-e2a2-11eb-9e21-54c60eecd674.png">
 </p>
