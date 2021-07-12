@@ -10,7 +10,7 @@ I've chosen a dataset from Amazon reviews on video games sold on Amazon. From th
 
 ### How many Vine reviews and non-Vine reviews were there?
 
-There is a total of 40,565 reviews within this dataset. Below are the amount of Vine Reviews and Non-Vine reviews.
+There is a total of **40,565 reviews** within this dataset. Below are the amount of Vine Reviews and Non-Vine reviews.
 
 <ins>Vine reviews:</ins>
 <p align="center">
@@ -29,7 +29,7 @@ There is a total of 40,565 reviews within this dataset. Below are the amount of 
 
 ### How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
 
-**Total 5-Star Reviews** = 15,711
+There is a total of **15,711, 5-star reviews**. Below are the amount of 5-star Vine and Non-Vine reviews.
 
 <p align="center">
     <img src="https://user-images.githubusercontent.com/75700317/125225637-9e639000-e29d-11eb-8213-801e641c35a5.png"> 
@@ -37,7 +37,7 @@ There is a total of 40,565 reviews within this dataset. Below are the amount of 
 
 <br>
 
-Vine Reviews:
+<ins>Vine Reviews:</ins>
 <p align="center">
     <img width="858" alt="paid_5star_reviews" src="https://user-images.githubusercontent.com/75700317/125226712-94429100-e29f-11eb-9e2b-58db06ca4976.png">
 </p>
@@ -45,7 +45,7 @@ Vine Reviews:
 <br>
 
 
-Non-Vine Reviews:
+<ins>Non-Vine Reviews:</ins>
 <p align="center">
     <img width="858" alt="total_unpaid_5star_reviews" src="https://user-images.githubusercontent.com/75700317/125226744-9f95bc80-e29f-11eb-81cf-9f3e4e54aff3.png">
 </p>
@@ -55,7 +55,7 @@ Non-Vine Reviews:
 
 
 ### What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
-**total 5-star review percentage**
+
 <p align="center">
     <img width="858" alt="total_5star_reviews_percentage" src="https://user-images.githubusercontent.com/75700317/125226742-9efd2600-e29f-11eb-80aa-e9803769b16d.png">
 </p>
@@ -63,15 +63,15 @@ Non-Vine Reviews:
 <br>
 
 
-Vine Reviews:
-**paid 5-star review percentage**
+<ins>Vine Reviews:</ins>
+
 <p align="center">
     <img width="858" alt="paid_5star_reviews_percentage" src="https://user-images.githubusercontent.com/75700317/125226723-999fdb80-e29f-11eb-9651-7f8aa2d2c389.png">
 </p>
 
 <br>
 
-Non-Vine Reviews:
+<ins>Non-Vine Reviews:</ins>
 <p align="center">
     <img width="858" alt="unpaid_5star_review_percentage" src="https://user-images.githubusercontent.com/75700317/125227362-c6a0be00-e2a0-11eb-9524-c6cdf82c70ce.png">
 </p>
