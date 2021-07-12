@@ -14,7 +14,9 @@ I've chosen a dataset from Amazon reviews on video games sold on Amazon. From th
 
 
 Vine reviews:
-
+<p align="center">
+    <img width="858" alt="total_paid_reviews" src="https://user-images.githubusercontent.com/75700317/125226322-dfa86f80-e29e-11eb-9dcf-c09077ed6cab.png">
+</p>
 
 Non-Vine Reviews:
 
